@@ -40,7 +40,7 @@
                     </div>
                     <div class="form-group">
                         <button class="btn btn-md btn btn-primary">Simpan</button>
-                        <a href="?p=tambah_barang" class="btn btn-md btn btn-default">Kembali</a>
+                        <a href="?p=list_barang" class="btn btn-md btn btn-default">Kembali</a>
                     </div>
                 </form>
             </div>

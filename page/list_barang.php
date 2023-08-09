@@ -11,7 +11,7 @@
 </form>
 <br><br>
 
-<table class="table table-bordered">
+<table class="table table-bordered table-striped">
     <thead>
         <tr>
             <th>No</th>
@@ -36,7 +36,8 @@
             <th>22 juli 2023</th>
             <th>DI beli</th>
             <th>
-                <a href="?p=edit_barang" class="btn btn-md btn-prmary"><span class="glyphicon glyphicon-edit"></span></a>
+                <a href="?p=edit_barang" class="btn btn-md btn-prmary"><span
+                        class="glyphicon glyphicon-edit"></span></a>
                 <a href="" class="btn btn-md btn-danger"><span class="glyphicon glyphicon-trash"></span></a>
             </th>
         </tr>
